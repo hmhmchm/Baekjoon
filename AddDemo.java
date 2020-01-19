@@ -14,6 +14,11 @@ public class AddDemo {
 		 a = in.nextInt();
 		 b = in.nextInt();
 		System.out.println(a - b);
+		
+		double a1 = in.nextDouble();
+		double b1 = in.nextDouble();
+		
+		System.out.println(a1/b1);
 	}
 
 }
