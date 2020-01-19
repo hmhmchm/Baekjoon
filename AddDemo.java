@@ -9,9 +9,11 @@ public class AddDemo {
 		int a = in.nextInt();
 		int b = in.nextInt();
 		
-		
-		
 		System.out.println(a + b);
+		
+		 a = in.nextInt();
+		 b = in.nextInt();
+		System.out.println(a - b);
 	}
 
 }
