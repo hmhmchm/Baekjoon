@@ -17,7 +17,7 @@ public class Cicle {
 			two = (one + two) % 10; // 새롭게 1의 자리수 계산해 구하고
 			one = temp; // 아까 two를 temp 에 저장해놨던 것을 다시 꺼내서 one 에 저장 
 			
-			if(n == one * 10 + two) { // 처음 수와 사이클 돌고 나서 같으면 멈춘다.
+			if(n == one * 10 + two) { // 처음 수와 사이클 돌고 나서 같으면 멈춘다..
 				break;
 			}
 			
