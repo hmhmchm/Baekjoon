@@ -12,7 +12,7 @@ public class TheRest {
 		}
 		
 		for(int i = 0; i < rest.length; i++) {//입력한 수에 겹치는 부분이 있다면 카운트 세지않고 넘긴다
-			if(  ) //수정 필요
+			if(  ) //수정 필요.
 		}
 	}
 
