@@ -12,7 +12,7 @@ public class TheRest {
 			rest[i] = in.nextInt()%42;//여기에 42 나눈 나머지 값 저장하고
 		}
 		
-		for(int i = 0; i < rest.length; i++) {//입력한 수에 겹치는 부분이 있다면 카운트 세지않고 넘긴다
+		for(int i = 0; i < rest.length; i++) {//입력한 수에 겹치는 부분이 있다면 카운트 세지않고 넘긴다. 다시보기
 			if(  ) //수정 필요.
 		}
 	}
